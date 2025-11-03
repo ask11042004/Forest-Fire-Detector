@@ -102,8 +102,8 @@ The system uses sensors to continuously monitor **temperature, humidity, smoke, 
 
 ## 👩‍💻 Team / Author
 
-**Anaswara S K**  
-B.Tech in Electronics and Communication Engineering (IoT Minor)  
+**Anaswara S Kumar**  
+B.Tech in Electronics and Communication Engineering (Neyworking Minor)  
 SCT College of Engineering, Thiruvananthapuram  
 📧 Email: [skumaranaswara11042004@gmail.com](mailto:skumaranaswara11042004@gmail.com)
 
