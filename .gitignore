@@ -1,0 +1,79 @@
+# =========================================
+# 🌲 IoT-Based Forest Fire Detector
+# .gitignore file
+# =========================================
+
+# 🧠 IDE & Build Files
+*.bak
+*.tmp
+*.log
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.map
+*.lst
+
+# Arduino / ESP32 specific
+*.ino.cpp
+*.ino.d
+*.ino.bin
+*.ino.elf
+*.ino.hex
+
+# Compiled object files
+*.obj
+*.exe
+*.out
+
+# Build folders
+/build/
+debug/
+dist/
+__pycache__/
+.cache/
+.tmp/
+
+# 🔐 Configuration files (keep private API keys safe)
+config.js
+secrets.h
+credentials.h
+.env
+firebaseConfig.js
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / JetBrains / Arduino IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup and temporary files
+*.bak
+*.swp
+*.swo
+*.orig
+*.old
+*.save
+*~
+
+# Node.js / web dependencies (if any)
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Python cache (if used for data analysis or scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PDF reports (optional: remove if you want to keep your report)
+# report.pdf
