@@ -55,17 +55,24 @@ The system uses sensors to continuously monitor **temperature, humidity, smoke, 
 
 ## 📷 Images
 
-### 🔌 Hardware Setup
-<img src="images/setup.jpg" width="600"/>
+### 🔌 Full Hardware Setup
+<img src="images/setup.jpg" alt="Hardware Setup" width="600"/>
 
-### 🚨 LCD Display Alert
-<img src="images/lcd_fire.jpg" width="600"/>
+### 🚨 LCD Display – Before Fire
+<img src="images/lcd_before_fire.jpg" alt="LCD Before Fire" width="600"/>
 
-### ☁️ Firebase Monitoring
-<img src="images/firebase_after.png" width="600"/>
+### 🔥 LCD Display – After Fire Detection
+<img src="images/lcd_after_fire.jpg" alt="LCD After Fire" width="600"/>
+
+### ☁️ Firebase Monitoring – Before Fire
+<img src="images/firebase_before_fire.jpg" alt="Firebase Before Fire" width="600"/>
+
+### ☁️ Firebase Monitoring – After Fire Detection
+<img src="images/firebase_after_fire.jpg" alt="Firebase After Fire" width="600"/>
 
 ### 🧱 Block Diagram
-<img src="images/block_diagram.png" width="600"/>
+<img src="images/block_diagram.jpg" alt="Block Diagram" width="600"/>
+
 
 ---
 
